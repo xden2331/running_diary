@@ -3,6 +3,30 @@
 
 
 
+## Get started
+
+This sectiond shows the prerequists and how to install them.
+
+
+
+- Flutter - Google's mobile app SDK
+  - Follow the instraction here: https://flutter.dev/
+- Android Studio - For running emulator
+  - https://developer.android.com/studio
+- VS Code (Recommended) - Code Editor
+  - Follow the instraction here: https://code.visualstudio.com/
+
+
+
+## Run the app
+
+1. Clong the repo.
+2. Open the repo in VS Code.
+3. Debug tab -> Start without debug
+4. If no emulator started, check your AVD setting; if you want to run it on iOS emulator, you have to install Xcode.
+
+
+
 ## Functionality
 
 1. Track user running route.
